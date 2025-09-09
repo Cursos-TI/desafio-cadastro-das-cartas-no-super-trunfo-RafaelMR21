@@ -16,9 +16,9 @@ int main() {
     printf("nomedacidade: %s \n", nomedacidade);
     printf("população: %d \n", população);
     printf("area: %.3f km² \n", area);
-    printf("pib:%.3f bilhões de R$ \n", pib);
+    printf("pib: %.3f bilhões de R$ \n", pib);
     printf("numerosdepontosturisticos: %d \n", numerosdepontosturisticos);
 
-
+    
     return 0;
 }
