@@ -69,7 +69,7 @@ int main() {
     printf("Digite o pib (em bilhões de R$):");
     scanf("%f", &pib2);
 
-    printf("Digite o número de pontos turísticos");
+    printf("Digite o número de pontos turísticos:");
     scanf("%d", &numerosdepontosturisticos2);
 
     return 0;
